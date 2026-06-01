@@ -41,3 +41,16 @@ customers[1].email = "charlie.brown@gmail.com";
 // Add a new purchase to Bob's (position 0) purchases array
 customers[0].purchases.push("Headphones");
 
+// STEP 4: Display Customer Information
+
+console.log("========================================");
+console.log("        CUSTOMER RECORDS REPORT         ");
+console.log("========================================");
+
+// Loop through each customer in our array
+customers.forEach(customer => {
+    // customer.purchases.length counts how many items are in that customer's array
+    console.log(`Customer: ${customer.name} | Email: ${customer.email} | Total Purchases: ${customer.purchases.length}`);
+});
+
+console.log("========================================");
