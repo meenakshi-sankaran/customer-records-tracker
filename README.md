@@ -38,4 +38,4 @@ Ensure you have **Node.js** installed on your workstation.
 ### Local Execution
 1. Clone this repository to your local directory:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/customer-tracker.git](https://github.com/YOUR_USERNAME/customer-tracker.git)
+   git clone [https://github.com/meenakshi-sankaran/customer-tracker.git](https://github.com/meenakshi-sankaran/customer-tracker.git)
